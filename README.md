@@ -4,15 +4,6 @@
 
 ***Table of contenents***
 
-### Lezione 1 ***Introduzione al machine learning***
-
-  In questo notebook vedremo:
-  - Come si importano i moduli in python
-  - Elementi di sintassi
-    - Liste, dizionari, array, cicli, if statments
-    - Salvare e caricare un file
-    - Generazione numeri casuali con numpy
-    - Plot di grafici 
 ### Lesson 1 (theory): ***Introduction to machine learning***
 Lecturer: Guido Gigante
 
